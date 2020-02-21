@@ -9,3 +9,7 @@ The patterns can be structured in roughly three different categories
 * [Builder(生成器)](Creational/Builder)[:notebook:](http://en.wikipedia.org/wiki/Builder_pattern)
 * [FactoryMethod(工厂方法)](Creational/FactoryMethod)[:notebook:](http://en.wikipedia.org/wiki/Factory_method_pattern)
 * [Prototype(原型)](Creational/Prototype) [:notebook:](http://en.wikipedia.org/wiki/Prototype_pattern)
+* [Singleton](Creational/Singleton) [:notebook:](http://en.wikipedia.org/wiki/Singleton_pattern)
+
+#### Structural
+* [Adapter](Structural/Adapter) [:notebook:](http://en.wikipedia.org/wiki/Adapter_pattern)
