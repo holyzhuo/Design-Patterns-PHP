@@ -16,6 +16,8 @@ The patterns can be structured in roughly three different categories
 * [Composite (组合)](Structural/Composite) [:notebook:](http://en.wikipedia.org/wiki/Composite_pattern)
 * [Decorator (装饰器)](Structural/Decorator) [:notebook:](http://en.wikipedia.org/wiki/Decorator_pattern)
 * [Facade (外观)](Structural/Facade) [:notebook:](http://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight (享元)](Structural/Flyweight) [:notebook:](https://en.wikipedia.org/wiki/Flyweight_pattern)
+
 
 
 
