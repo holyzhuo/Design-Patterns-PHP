@@ -15,5 +15,7 @@ The patterns can be structured in roughly three different categories
 * [Adapter (适配器)](Structural/Adapter) [:notebook:](http://en.wikipedia.org/wiki/Adapter_pattern)
 * [Composite (组合)](Structural/Composite) [:notebook:](http://en.wikipedia.org/wiki/Composite_pattern)
 * [Decorator (装饰器)](Structural/Decorator) [:notebook:](http://en.wikipedia.org/wiki/Decorator_pattern)
+* [Facade (外观)](Structural/Facade) [:notebook:](http://en.wikipedia.org/wiki/Facade_pattern)
+
 
 
