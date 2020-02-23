@@ -10,4 +10,4 @@ $booking = new DoubleRoomBooking();
 $booking = new WiFi($booking);
 $booking = new ExtraBed($booking);
 
-$booking->calculatePrice();
+$booking->calculatePrice(); // 72
