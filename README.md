@@ -22,6 +22,24 @@ The patterns can be structured in roughly three different categories
 
 ### [Behavioral](Behavioral)
 * [ChainOfResponsibilities (职责链)](Behavioral/ChainOfResponsibilities) [:notebook:](http://en.wikipedia.org/wiki/Chain_of_responsibility_pattern)
+* [Command (命令)](Behavioral/Command) [:notebook:](http://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter (解释器)](Behavioral/Interpreter) [:notebook:](http://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Iterator (迭代器)](Behavioral/Iterator) [:notebook:](http://en.wikipedia.org/wiki/Iterator_pattern)
+* [Mediator (中介者)](Behavioral/Mediator) [:notebook:](http://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento (备忘录)](Behavioral/Memento) [:notebook:](http://en.wikipedia.org/wiki/Memento_pattern)
+* [Observer (观察者)](Behavioral/Observer) [:notebook:](http://en.wikipedia.org/wiki/Observer_pattern)
+* [State (状态)](Behavioral/State) [:notebook:](http://en.wikipedia.org/wiki/State_pattern)
+* [Strategy (策略)](Behavioral/Strategy) [:notebook:](http://en.wikipedia.org/wiki/Strategy_pattern)
+* [TemplateMethod (模板方法)](Behavioral/TemplateMethod) [:notebook:](http://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor (访问者)](Behavioral/Visitor) [:notebook:](http://en.wikipedia.org/wiki/Visitor_pattern)
+
+
+
+
+
+
+
+
 
 
 
